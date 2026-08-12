@@ -10,7 +10,7 @@ Radar / RF 프로젝트 경험을 기반으로 **Embedded Software와 Defense Sy
 
 ### 🛠 Tech Stack
 
-`C` `C++` `C#` `MATLAB` `STM32` `FreeRTOS` `Linux` `Raspberry Pi` `Zynq-7000`
+`C` `C++` `C#` `MATLAB` `STM32` `FreeRTOS` `Linux` `Raspberry Pi`
 
 ### 🚀 Projects
 
@@ -23,7 +23,7 @@ Radar / RF 프로젝트 경험을 기반으로 **Embedded Software와 Defense Sy
 
 ### 🎓 Embedded School
 
-`STM32` · `FreeRTOS` · `Linux` · `WPF` · `TCP/IP` · `Zynq-7000`
+`STM32` · `FreeRTOS` · `Linux` · `TCP/IP` ·
 
 ### 📚 Publications & Conferences
 

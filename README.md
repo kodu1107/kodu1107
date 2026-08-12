@@ -1,51 +1,35 @@
-# 🛰️ Embedded & Radar System Developer
+# 🛰️ Embedded & Radar Engineer
 
-### Radar · Embedded · RTOS · FPGA · Signal Processing
+Radar · Embedded · RTOS · FPGA · Signal Processing
 
----
+🎓 **B.S. Electrical & Electronics Engineering @ Konkuk University**
+🛰️ **LIG the Ssen Embedded School 4th**
+📧 **[00mkr@naver.com](mailto:00mkr@naver.com)**
 
-## 👨‍💻 About Me
+Radar / RF 프로젝트 경험을 기반으로 **Embedded Software와 Defense System** 분야를 공부하고 있습니다.
 
-* 🎓 **B.S. in Electrical & Electronics Engineering, Konkuk University**
-* 🛰️ **LIG the Ssen Embedded School 4th**
-* 📧 **[00mkr@naver.com](mailto:00mkr@naver.com)**
+### 🛠 Tech Stack
 
-Radar / RF / Signal Processing 경험을 바탕으로
-Embedded Software와 Defense System 분야를 공부하고 있습니다.
+`C` `C++` `C#` `MATLAB` `STM32` `FreeRTOS` `Linux` `Raspberry Pi` `Zynq-7000`
 
----
+### 🚀 Projects
 
-## 🎓 LIG the Ssen Embedded School
+* 📡 **FMCW Radar Object Classification & Tracking** — FMCW 기반 차량·보행자 식별 및 Kalman Tracking
+* 🫀 **5.8 GHz Vital Signal Radar** — Radar Board·Antenna 제작 및 비접촉 생체신호 분석
+* 🔐 **STM32 Door Lock** — TouchGFX · FreeRTOS · Servo Motor 기반 Embedded Door Lock
+* 🎨 **TCP Drawing Quiz** — C# WPF · TCP/IP 기반 실시간 Network Application
+* 🌡️ **Sensor Monitoring System** — Raspberry Pi · Arduino 기반 Sensor API Server
+* ♻️ **AI Recycling System** — AI Object Classification 기반 자동 분리 시스템
 
-`STM32` `FreeRTOS` `Linux` 
+### 🎓 Embedded School
 
-STM32, FreeRTOS, Linux, WPF Network Programming 를 실습했습니다.
+`STM32` · `FreeRTOS` · `Linux` · `WPF` · `TCP/IP` · `Zynq-7000`
 
----
+### 📚 Publications & Conferences
 
-## 🚀 Projects
+📄 **보행자 안전을 위한 FMCW 레이더 기반 접근 차량 식별 시스템** — 한국전자파학회 논문지
+🎤 **보행자 안전 시스템을 위한 FMCW 레이더 기반 정밀 객체 탐지 기법** — 한국전자파학회
 
-* 📡 **FMCW Radar Object Classification & Tracking** — AWR1843BOOST와 DCA1000EVM 기반 차량/보행자 분류 및 Kalman Filter 추적
-* 🫀 **5.8 GHz Non-contact Vital Signal Radar** — Radar Sensor Board와 Antenna를 설계·제작하고 STM32와 MATLAB으로 비접촉 생체신호 분석
-* 📶 **5.8 GHz Microstrip Patch Antenna** — ADS 기반 Inset-fed Patch Antenna 설계 및 제작
-* 🔐 **STM32 TouchGFX Door Lock** — FreeRTOS와 TouchGFX 기반 비밀번호 인증 및 Servo Motor 제어 시스템
-* 🎨 **Real-time TCP Drawing Quiz** — C# WPF와 TCP/IP를 이용한 실시간 그림 퀴즈 네트워크 애플리케이션
-* 🌡️ **Raspberry Pi Sensor Monitoring** — Arduino 센서 데이터를 Raspberry Pi에서 수집·저장하고 REST API로 제공
-* ♻️ **AI Automatic Recycling System** — 객체 분류 결과에 따라 Servo Motor로 물체를 자동 분리하는 시스템
+### 🎯 Interests
 
----
-
-## 📚 Publications & Conferences
-
-* 📄 **보행자 안전을 위한 FMCW 레이더 기반 접근 차량 식별 시스템** — 한국전자파학회 논문지
-* 🎤 **보행자 안전 시스템을 위한 FMCW 레이더 기반 정밀 객체 탐지 기법** — 한국전자파학회 하계종합학술대회
-
----
-
-## 🛠 Tech Stack
-
-`C` `C++` `MATLAB` `STM32` `FreeRTOS` `Linux` `Raspberry Pi`
-
----
-
-### 🎯 Radar · Embedded · FPGA · Defense Systems
+`Radar` · `Embedded` · `FPGA` · `Wireless Communication` · `Defense Systems`

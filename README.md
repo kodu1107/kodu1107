@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.png" width="100%" />
-</p>
-
 # 🛰️ Embedded & Radar Engineer
 
 Radar · Embedded · RTOS · FPGA · Signal Processing

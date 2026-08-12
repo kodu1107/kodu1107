@@ -27,7 +27,7 @@ Radar / RF 프로젝트 경험을 기반으로 **Embedded Software와 Defense Sy
 
 ### 📚 Publications & Conferences
 
-📄 **보행자 안전을 위한 FMCW 레이더 기반 접근 차량 식별 시스템** — 한국전자파학회 논문지
+📄 **보행자 안전을 위한 FMCW 레이더 기반 접근 차량 식별 시스템** — 한국전자파학회 논문지 
 🎤 **보행자 안전 시스템을 위한 FMCW 레이더 기반 정밀 객체 탐지 기법** — 한국전자파학회
 
 ### 🎯 Interests
